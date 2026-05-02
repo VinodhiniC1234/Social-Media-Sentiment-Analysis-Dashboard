@@ -71,14 +71,3 @@ Social-Media-Sentiment-Analysis-Dashboard/
 ├── requirements.txt              → Lists required Python libraries
 ├── README.md                     → Project documentation
 ```
-
-
-
-
----
-
-## ⚙️ Installation
-
-```bash
-git clone https://github.com/VinodhiniC1234/Social-Media-Sentiment-Analysis-Dashboard.git
-cd Social-Media-Sentiment-Analysis-Dashboard
